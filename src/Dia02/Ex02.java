@@ -2,7 +2,7 @@ package Dia02;
 
 import java.util.Scanner;
 
-public class Soma {
+public class Ex02 {
     public static void main(String[] args) {
         int n1, n2, s;
         Scanner sc = new Scanner(System.in);

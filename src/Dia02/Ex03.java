@@ -1,6 +1,6 @@
 package Dia02;
 
-public class Calculos {
+public class Ex03 {
     public static void main(String[] args) {
         String valor1 = "5", valor2 = "9";
         int a = Integer.parseInt(valor1), b = Integer.parseInt(valor2);

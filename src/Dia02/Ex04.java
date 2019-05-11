@@ -2,7 +2,7 @@ package Dia02;
 
 import java.util.Scanner;
 
-public class TabelaAscii {
+public class Ex04 {
     public static void main(String[] args) {
         int a;
         Scanner sc = new Scanner(System.in);
